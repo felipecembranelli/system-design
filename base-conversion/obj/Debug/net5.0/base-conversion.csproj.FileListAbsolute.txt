@@ -1,0 +1,16 @@
+/home/felipe/projects/personal/system-design/base-conversion/bin/Debug/net5.0/base-conversion
+/home/felipe/projects/personal/system-design/base-conversion/bin/Debug/net5.0/base-conversion.deps.json
+/home/felipe/projects/personal/system-design/base-conversion/bin/Debug/net5.0/base-conversion.runtimeconfig.json
+/home/felipe/projects/personal/system-design/base-conversion/bin/Debug/net5.0/base-conversion.runtimeconfig.dev.json
+/home/felipe/projects/personal/system-design/base-conversion/bin/Debug/net5.0/base-conversion.dll
+/home/felipe/projects/personal/system-design/base-conversion/bin/Debug/net5.0/ref/base-conversion.dll
+/home/felipe/projects/personal/system-design/base-conversion/bin/Debug/net5.0/base-conversion.pdb
+/home/felipe/projects/personal/system-design/base-conversion/obj/Debug/net5.0/base-conversion.csproj.AssemblyReference.cache
+/home/felipe/projects/personal/system-design/base-conversion/obj/Debug/net5.0/base-conversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/projects/personal/system-design/base-conversion/obj/Debug/net5.0/base-conversion.AssemblyInfoInputs.cache
+/home/felipe/projects/personal/system-design/base-conversion/obj/Debug/net5.0/base-conversion.AssemblyInfo.cs
+/home/felipe/projects/personal/system-design/base-conversion/obj/Debug/net5.0/base-conversion.csproj.CoreCompileInputs.cache
+/home/felipe/projects/personal/system-design/base-conversion/obj/Debug/net5.0/base-conversion.dll
+/home/felipe/projects/personal/system-design/base-conversion/obj/Debug/net5.0/ref/base-conversion.dll
+/home/felipe/projects/personal/system-design/base-conversion/obj/Debug/net5.0/base-conversion.pdb
+/home/felipe/projects/personal/system-design/base-conversion/obj/Debug/net5.0/base-conversion.genruntimeconfig.cache
