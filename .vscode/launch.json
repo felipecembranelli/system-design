@@ -2,13 +2,46 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "rate-limiter-simple",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-rate-limiter-simple",
+            "program": "${workspaceFolder}/rate-limiter-simple/bin/Debug/net5.0/rate-limiter-simple.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "rate-limiter",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-rate-limiter",
+            "program": "${workspaceFolder}/rate-limiter/bin/Debug/net5.0/rate-limiter.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "rate-limiter-2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-rate-limiter-2",
+            "program": "${workspaceFolder}/rate-limiter-2/Bert.RateLimiters.Tests/bin/Debug/netcoreapp2.1/Bert.RateLimiters.Tests.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
             // Use IntelliSense to find out which attributes exist for C# debugging
             // Use hover for the description of the existing attributes
             // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
-            "name": ".NET Core Launch (web)",
+            "name": "url-shortner",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build",
+            "preLaunchTask": "build-url-shortner",
             // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/aspnetcore-url-shortener/bin/Debug/netcoreapp2.1/UrlShortener.dll",
             "args": [],
@@ -30,6 +63,7 @@
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"
-        }
+        },
+
     ]
 }

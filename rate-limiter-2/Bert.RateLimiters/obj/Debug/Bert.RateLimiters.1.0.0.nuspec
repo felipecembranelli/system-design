@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bert.RateLimiters</id>
+    <version>1.0.0</version>
+    <authors>Bert.RateLimiters</authors>
+    <description>Package Description</description>
+    <copyright>2014 - 2019</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/bin/Debug/netstandard2.0/Bert.RateLimiters.dll" target="lib/netstandard2.0/Bert.RateLimiters.dll" />
+  </files>
+</package>

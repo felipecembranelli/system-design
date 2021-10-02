@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wf5ybVtNL3W0lhuI34CeyqQKCh4j38Z9aAdCNMIeFuCFgC6aoJdHaVvY/rxlrznqSbVqqkQpWsRo/vGL5Mt2g==",
+  "success": true,
+  "projectFilePath": "/home/felipe/projects/personal/system-design/src/rate-limiter/rate-limiter.csproj",
+  "expectedPackageFiles": [
+    "/home/felipe/.nuget/packages/concurrentqueue/1.0.0/concurrentqueue.1.0.0.nupkg.sha512",
+    "/home/felipe/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/felipe/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/felipe/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/home/felipe/.nuget/packages/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
+    "/home/felipe/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ConcurrentQueue 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ConcurrentQueue",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMWG4bbGFzjzBJnEGYEQuPENyF+U4XCkwUAVXzG/rAgB2D/LveeuyK8Q/uS6FFmNJJecblamprgg6Y2CKcilbA==",
+  "success": true,
+  "projectFilePath": "/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/Bert.RateLimiters.csproj",
+  "expectedPackageFiles": [
+    "/home/felipe/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/felipe/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

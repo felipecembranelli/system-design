@@ -1,0 +1,16 @@
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/obj/Debug/net5.0/rate-limiter-simple.csproj.AssemblyReference.cache
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/obj/Debug/net5.0/rate-limiter-simple.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/obj/Debug/net5.0/rate-limiter-simple.AssemblyInfoInputs.cache
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/obj/Debug/net5.0/rate-limiter-simple.AssemblyInfo.cs
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/obj/Debug/net5.0/rate-limiter-simple.csproj.CoreCompileInputs.cache
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/bin/Debug/net5.0/rate-limiter-simple
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/bin/Debug/net5.0/rate-limiter-simple.deps.json
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/bin/Debug/net5.0/rate-limiter-simple.runtimeconfig.json
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/bin/Debug/net5.0/rate-limiter-simple.runtimeconfig.dev.json
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/bin/Debug/net5.0/rate-limiter-simple.dll
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/bin/Debug/net5.0/ref/rate-limiter-simple.dll
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/bin/Debug/net5.0/rate-limiter-simple.pdb
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/obj/Debug/net5.0/rate-limiter-simple.dll
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/obj/Debug/net5.0/ref/rate-limiter-simple.dll
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/obj/Debug/net5.0/rate-limiter-simple.pdb
+/home/felipe/projects/personal/system-design/src/rate-limiter-simple/obj/Debug/net5.0/rate-limiter-simple.genruntimeconfig.cache

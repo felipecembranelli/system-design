@@ -1,0 +1,9 @@
+/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/bin/Debug/netstandard2.0/Bert.RateLimiters.deps.json
+/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/bin/Debug/netstandard2.0/Bert.RateLimiters.dll
+/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/bin/Debug/netstandard2.0/Bert.RateLimiters.pdb
+/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/obj/Debug/netstandard2.0/Bert.RateLimiters.csproj.AssemblyReference.cache
+/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/obj/Debug/netstandard2.0/Bert.RateLimiters.AssemblyInfoInputs.cache
+/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/obj/Debug/netstandard2.0/Bert.RateLimiters.AssemblyInfo.cs
+/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/obj/Debug/netstandard2.0/Bert.RateLimiters.csproj.CoreCompileInputs.cache
+/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/obj/Debug/netstandard2.0/Bert.RateLimiters.dll
+/home/felipe/projects/personal/system-design/src/rate-limiter-2/Bert.RateLimiters/obj/Debug/netstandard2.0/Bert.RateLimiters.pdb
