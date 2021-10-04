@@ -1,0 +1,16 @@
+/home/felipe/projects/personal/system-design/src/consistent-hashing/bin/Debug/net5.0/consistent-hashing
+/home/felipe/projects/personal/system-design/src/consistent-hashing/bin/Debug/net5.0/consistent-hashing.deps.json
+/home/felipe/projects/personal/system-design/src/consistent-hashing/bin/Debug/net5.0/consistent-hashing.runtimeconfig.json
+/home/felipe/projects/personal/system-design/src/consistent-hashing/bin/Debug/net5.0/consistent-hashing.runtimeconfig.dev.json
+/home/felipe/projects/personal/system-design/src/consistent-hashing/bin/Debug/net5.0/consistent-hashing.dll
+/home/felipe/projects/personal/system-design/src/consistent-hashing/bin/Debug/net5.0/ref/consistent-hashing.dll
+/home/felipe/projects/personal/system-design/src/consistent-hashing/bin/Debug/net5.0/consistent-hashing.pdb
+/home/felipe/projects/personal/system-design/src/consistent-hashing/obj/Debug/net5.0/consistent-hashing.csproj.AssemblyReference.cache
+/home/felipe/projects/personal/system-design/src/consistent-hashing/obj/Debug/net5.0/consistent-hashing.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/projects/personal/system-design/src/consistent-hashing/obj/Debug/net5.0/consistent-hashing.AssemblyInfoInputs.cache
+/home/felipe/projects/personal/system-design/src/consistent-hashing/obj/Debug/net5.0/consistent-hashing.AssemblyInfo.cs
+/home/felipe/projects/personal/system-design/src/consistent-hashing/obj/Debug/net5.0/consistent-hashing.csproj.CoreCompileInputs.cache
+/home/felipe/projects/personal/system-design/src/consistent-hashing/obj/Debug/net5.0/consistent-hashing.dll
+/home/felipe/projects/personal/system-design/src/consistent-hashing/obj/Debug/net5.0/ref/consistent-hashing.dll
+/home/felipe/projects/personal/system-design/src/consistent-hashing/obj/Debug/net5.0/consistent-hashing.pdb
+/home/felipe/projects/personal/system-design/src/consistent-hashing/obj/Debug/net5.0/consistent-hashing.genruntimeconfig.cache

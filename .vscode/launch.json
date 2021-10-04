@@ -13,6 +13,17 @@
             "console": "internalConsole"
         },
         {
+            "name": "consistent-hashing",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-consistent-hashing",
+            "program": "${workspaceFolder}/consistent-hashing/bin/Debug/net5.0/consistent-hashing.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
             "name": "rate-limiter",
             "type": "coreclr",
             "request": "launch",
