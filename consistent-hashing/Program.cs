@@ -12,7 +12,19 @@ namespace consistent_hashing
 
         static void Main(string[] args)
         {
-            ProcessTest(true);
+            //ProcessTest(true);
+            ConsistentHashing();
+        }
+
+        static void ConsistentHashing()
+        {
+            var buckets = new List<string> {"1", "2", "3"};
+
+            ConsistentHashing<string> c = new ConsistentHashing<string>(buckets);
+
+            byte[] bytes = {0,0,0,25};
+
+            var ret = c.GetBucket(bytes);
         }
 
         private static void ProcessTest(bool defaultHashFunction)
