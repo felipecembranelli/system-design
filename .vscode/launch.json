@@ -13,6 +13,36 @@
             "console": "internalConsole"
         },
         {
+            "name": "care-reservation",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-care-reservation",
+            "program": "${workspaceFolder}/CareReservationSystem/bin/Debug/net5.0/CareReservationSystem.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:8001"
+            }
+        },
+        {
+            "name": "key-value",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-key-value",
+            "program": "${workspaceFolder}/Key-value/MemoryBucket/bin/Debug/netcoreapp3.1/MemoryBucket.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:7001"
+            }
+        },
+        {
             "name": "consistent-hashing",
             "type": "coreclr",
             "request": "launch",
