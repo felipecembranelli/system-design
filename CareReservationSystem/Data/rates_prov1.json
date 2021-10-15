@@ -1,0 +1,49 @@
+{
+    "ProviderId": "prov1",
+    "BaseRateValue": 30,
+    "Note": null,
+    "Rates": [
+        {
+            "RateValue": 100,
+            "StartDate": "2021-10-01T00:00:00",
+            "FinishDate": "2021-10-03T00:00:00",
+            "RecurrencyType": 0,
+            "WeeklyOnDayofWeek": null
+        },
+        {
+            "RateValue": 200,
+            "StartDate": "2021-10-04T00:00:00",
+            "FinishDate": "2021-01-05T00:00:00",
+            "RecurrencyType": 0,
+            "WeeklyOnDayofWeek": null
+        },
+        {
+            "RateValue": 200,
+            "StartDate": "2021-10-04T00:00:00",
+            "FinishDate": "2021-01-05T00:00:00",
+            "RecurrencyType": 1,
+            "WeeklyOnDayofWeek": null
+        },
+        {
+            "RateValue": 200,
+            "StartDate": "2021-10-04T00:00:00",
+            "FinishDate": "2021-01-05T00:00:00",
+            "RecurrencyType": 2,
+            "WeeklyOnDayofWeek": 1
+        },
+        {
+            "RateValue": 200,
+            "StartDate": "2021-10-04T00:00:00",
+            "FinishDate": "2021-01-05T00:00:00",
+            "RecurrencyType": 3,
+            "WeeklyOnDayofWeek": null
+        },
+        {
+            "RateValue": 200,
+            "StartDate": "2021-10-04T00:00:00",
+            "FinishDate": "2021-01-05T00:00:00",
+            "RecurrencyType": 4,
+            "WeeklyOnDayofWeek": null
+        }
+    ]
+}
