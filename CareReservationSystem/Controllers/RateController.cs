@@ -28,18 +28,30 @@ namespace CareReservationSystem.Controllers
         /// <summary>
         /// set base rate.
         /// </summary>
-        [HttpPost("SetBaseRate")]
+        [HttpPost("SetRate")]
         public void Post([FromBody] RateConfig data)
         {
                 var db = new RateRepository();
 
-                //var valueSet = JsonSerializer.Deserialize<RateConfig>(data);
+                db.SetRate(data);
+        }
 
-                // db.SetBaseRate(data["ProviderId"].ToString(), 
-                //                 decimal.Parse(data["RateValue"].ToString()), 
-                //                 null,
-                //                 (List<Rate>)data["NonRecurringRates"],
-                //                 (List<WeeklyRate>)data["WeeklyRates"]);
+        [HttpGet("GetRates")]
+        public RateConfig GetRates(string providerId)
+        {
+            var db = new RateRepository();
+
+            return db.GetRatesByProviderId(providerId);
+
+        }
+
+        [HttpGet("GetRateByDate")]
+        public decimal GetRateByDate(string providerId, DateTime startDate, DateTime finishDate)
+        {
+            var db = new RateRepository();
+
+            return db.GetRateByDate(providerId, startDate, finishDate);
+
         }
 
         // [HttpGet]

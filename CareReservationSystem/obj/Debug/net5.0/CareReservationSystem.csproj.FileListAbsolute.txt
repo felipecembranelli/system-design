@@ -27,3 +27,4 @@
 /home/felipe/projects/personal/system-design/src/CareReservationSystem/obj/Debug/net5.0/ref/CareReservationSystem.dll
 /home/felipe/projects/personal/system-design/src/CareReservationSystem/obj/Debug/net5.0/CareReservationSystem.pdb
 /home/felipe/projects/personal/system-design/src/CareReservationSystem/obj/Debug/net5.0/CareReservationSystem.genruntimeconfig.cache
+/home/felipe/projects/personal/system-design/src/CareReservationSystem/bin/Debug/net5.0/Data/rates_prov1.json
