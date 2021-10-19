@@ -28,6 +28,28 @@
             }
         },
         {
+            "name": "chat-client",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-chat-client",
+            "program": "${workspaceFolder}/chat/client/bin/Debug/net5.0/client.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "chat-server",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-chat-server",
+            "program": "${workspaceFolder}/chat/server/bin/Debug/net5.0/server.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
             "name": "key-value",
             "type": "coreclr",
             "request": "launch",
