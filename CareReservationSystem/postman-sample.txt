@@ -1,0 +1,21 @@
+{
+"ProviderId" : "prov1",
+"BaseRateValue" : 30,
+"Rates" : [
+{"StartDate" : "2021-10-01", "FinishDate" : "2021-10-03", "RateValue" : 100, "RecurrencyType" : 0},
+{"StartDate" : "2021-10-04", "FinishDate" : "2021-01-05", "RateValue" : 200, "RecurrencyType" : 0}
+]
+}
+
+{
+"ProviderId" : "prov1",
+"BaseRateValue" : 30,
+"Rates" : [
+{"StartDate" : "2021-10-01", "FinishDate" : "2021-10-03", "RateValue" : 100, "RecurrencyType" : 0},
+{"StartDate" : "2021-10-04", "FinishDate" : "2021-01-05", "RateValue" : 200, "RecurrencyType" : 0},
+{"StartDate" : "2021-10-04", "FinishDate" : "2021-01-05", "RateValue" : 200, "RecurrencyType" : 1},
+{"StartDate" : "2021-10-04", "FinishDate" : "2021-01-05", "RateValue" : 200, "RecurrencyType" : 2, "WeeklyOnDayofWeek" : 1},
+{"StartDate" : "2021-10-04", "FinishDate" : "2021-01-05", "RateValue" : 200, "RecurrencyType" : 3},
+{"StartDate" : "2021-10-04", "FinishDate" : "2021-01-05", "RateValue" : 200, "RecurrencyType" : 4}
+]
+}
