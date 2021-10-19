@@ -3,53 +3,39 @@ using System.Collections.Generic;
 
 namespace CareReservationSystem
 {
-    public class RateConfig
+    public class RateConfig 
     {
         public string ProviderId {get;set;}
-        
-        public DateTime Date { get; set; }
 
         public decimal BaseRateValue { get; set; }
+        
+        public string? Note { get; set; }
 
-        public string Note { get; set; }
 
-        public List<Rate> NonRecurringRates { get; set; }
-
-        public List<WeeklyRate> WeeklyRates { get; set; }
-
-        public List<MonthlyRate> MonthlyRates { get; set; }
-    }
-
-    public class Rate 
-    {
-        public DateTime Date { get; set; }
-
-        public decimal RateValue { get; set; }
+        public List<Rate> Rates {get; set;}
 
     }
-
-    public class WeeklyRate 
+    public class Rate
     {
-        public string[] WeekDays { get; set; }
-
         public decimal RateValue { get; set; }
 
         public DateTime StartDate { get; set; }
 
         public DateTime FinishDate { get; set; }
 
+        public RecurrencyType RecurrencyType { get; set; }
+
+        public DayOfWeek? WeeklyOnDayofWeek { get; set; } // apply only for recurrency type = weekly
+
     }
 
-    public class MonthlyRate 
+    public enum RecurrencyType
     {
-        public string[] MonthDays { get; set; }
-
-        public decimal RateValue { get; set; }
-
-        public DateTime StartDate { get; set; }
-
-        public DateTime FinishDate { get; set; }
-
+        NoRecurrent = 0,
+        Daily = 1,
+        Weekly = 2,
+        Monthly = 3,
+        Yearly = 4
     }
 
     public class YearlyRate 
